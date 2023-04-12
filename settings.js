@@ -27,7 +27,7 @@ global.socialm = "GitHub: Lakminaudaya" //ur github or insta name
 global.location = "Sri Lanka, Gampaha, Kirindiwela" //ur location
 
 //bot bomdy 
-global.session = "Z0t4emhKNEM=" //session Id
+global.session = "Zm5pNHJkN2Q=" //session Id
 global.ownernomer = "94784608102" //ur number
 global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
 global.premium = ['94784608102'] //ur premium number
