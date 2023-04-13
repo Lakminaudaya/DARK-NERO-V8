@@ -18,19 +18,19 @@ global.ANTI_BADWORD = 'true' // true of false
 global.AUTO_REACT = 'false' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'off' //inbox block
-global.alivemsg = '𝙷𝙴𝚈 𝙸𝙼 𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾 | 𝙸𝙼 𝙾𝙽𝙻𝙸𝙽𝙴🍁🕊️'
+global.alivemsg = '𝙷𝙴𝚈 𝙸𝙼 𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾 | 𝙸𝙼 𝙾𝙽𝙻𝙸𝙽𝙴🍁🕊️.......!! https://chat.whatsapp.com/GM9P6W3Ft7hLlN1aW90QP1'
 global.alivepic = 'https://telegra.ph/file/191529cee2e5ad8da6693.jpg '
-global.owner = ['0784608102'] //ur owner number
-global.ownername = "CYBER BLACK ALPAH" //ur owner name
+global.owner = ['94770075694'] //ur owner number
+global.ownername = "🍃▍...𝐑𝐃𝐗 𝐌𝐎𝐃𝐙...▍🍃" //ur owner name
 global.ytname = "YT: @RDXMODSOFFICIAK" //ur yt chanel name
 global.socialm = "GitHub: Lakminaudaya" //ur github or insta name
 global.location = "Sri Lanka, Gampaha, Kirindiwela" //ur location
 
 //bot bomdy 
-global.session = "Zm5pNHJkN2Q=" //session Id
-global.ownernomer = "94784608102" //ur number
+global.session = "VUV1TTdLa3U=" //session Id
+global.ownernomer = "94770075694" //ur number
 global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
-global.premium = ['94784608102'] //ur premium number
+global.premium = ['94770075694'] //ur premium number
 global.botname = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
 global.linkz = "https://chat.whatsapp.com/ILMuX8YOc8TGolDYvJRlk5" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/@RDXMODSOFFICIAL" //ur website to be displayed
